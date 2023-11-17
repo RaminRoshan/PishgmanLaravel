@@ -1,0 +1,29 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "watch": "vite build --watch"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.8.0",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@blackywkl/vuewordcloud": "^1.1.4",
+        "@vitejs/plugin-vue": "^4.4.0",
+        "@vue/server-renderer": "^3.3.7",
+        "chart.js": "^4.4.0",
+        "jalali-moment": "^3.3.11",
+        "moment-jalaali": "^0.10.0",
+        "sweetalert2": "^11.6.13",
+        "vue": "^3.3.7",
+        "vue-chartjs": "^5.2.0",
+        "vue-loader": "^17.2.2",
+        "vue-persian-datetime-picker": "^2.10.4",
+        "vue-router": "^4.2.5",
+        "vue3-persian-datetime-picker": "^1.2.2"
+    }
+}
